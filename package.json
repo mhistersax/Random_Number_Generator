@@ -1,0 +1,23 @@
+{
+  "name": "random_number_generator",
+  "version": "1.0.0",
+  "description": "Using Node Js To Generate Random Numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mhistersax/Random_Number_Generator.git"
+  },
+  "keywords": [
+    "Node",
+    "js"
+  ],
+  "author": "Bamigoye Oluwapelumi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mhistersax/Random_Number_Generator/issues"
+  },
+  "homepage": "https://github.com/mhistersax/Random_Number_Generator#readme"
+}
